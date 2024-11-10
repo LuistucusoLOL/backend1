@@ -1,0 +1,9 @@
+crear carpeta
+entrar a la carpeta (cd)
+npm init -y poner eso
+luego cambiar en el json esto
+"test": "echo \"Error: no test specified\" && exit 1"
+por esto
+"dev": "nodemon index.js"
+
+y ya estaria para empezar
